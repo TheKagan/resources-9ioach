@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://TheKagan.github.io/resources-9ioach/sitemap.xml
